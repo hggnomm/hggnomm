@@ -1,4 +1,6 @@
-[![Banner](https://www.shutterstock.com/image-vector/doodle-vector-illustration-web-developer-600nw-398267149.jpg)]
+<a href="URL">
+    <img src="https://i.pinimg.com/736x/1b/55/91/1b55912d7d47570be524cc2594c453e8.jpg" alt="Banner" width="800">
+</a>
 
 ### 👋 Hi, I’m Nam Tran Hoang
 - 👀 I’m interested in ...
