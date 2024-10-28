@@ -15,7 +15,7 @@
  <!---
  🔭 I’m currently working on **a marketplace**
 --->
-⚡ I'm a software engineer with a main role as a **Frontend Developer**, skilled in working with backend and cloud technologies, I am committed to developing complete software solutions.
+### ⚡ I'm a software engineer with a main role as a **Frontend Developer**, skilled in working with backend and cloud technologies. I am committed to developing complete software solutions.
 
 🌱 I’m currently learning **Docker, AWS**
 
@@ -39,7 +39,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,redux,nodejs,vite,nextjs,ts,js,html,css,bootstrap,tailwind,less,sass, tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=dotnet,mongodb,mysql,postgres,postma,visualstudion,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=dotnet,mongodb,mysql,postgres,postman,visualstudio,vscode" /><br>
     <img src="https://skillicons.dev/icons?i=aws,azure,firebase,docker,nginx,jenkins,ubuntu,git" />
 </div>
 
