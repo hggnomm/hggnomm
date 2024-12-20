@@ -18,7 +18,7 @@
 --->
 ### ⚡ I'm a software engineer with a main role as a **Frontend Developer**, skilled in working with backend and cloud technologies. I am committed to developing complete software solutions.
 
-🌱 I’m currently learning **Strong English**
+🌱 I’m currently learning **Next.js & Nest.js**
 
  </div>
   
